@@ -1,0 +1,13 @@
+.kgr-tag-list-widget-frontend>ul {
+	list-style: none;
+	margin: 0;
+}
+
+.kgr-tag-list-widget-frontend>ul>li {
+	border-bottom: dashed 1px;
+	line-height: 30px;
+}
+
+.kgr-tag-list-widget-frontend>ul>li>span {
+	float: right;
+}

@@ -1,0 +1,8 @@
+.kgr-tag-list-widget-backend-container {
+	max-height: 100px;
+	overflow-y: auto;
+}
+
+.kgr-tag-list-widget-backend-container>span {
+	display: block;
+}
